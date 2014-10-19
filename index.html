@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+  <title>GPCR networks</title>
+
+  <meta name="description" content="GPCR interacting/non-interacting networks"> <meta http-equiv="content-type" content="text/html;charset=UTF-8"> 
+
+  <meta name="keywords" CONTENT="GPCR,GPCR Network,G protein-coupled receptor,biological networks,biology,bioinformatics,biochemistry,karolinska institutet,neuroscience,Rhodopsin-like,Secretin receptor family,Metabotropic glutamate,pheromone,Fungal mating pheromone receptors,Cyclic AMP receptors,Frizzled,Smoothened">
+  
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all" charset="utf-8">
+
+  <link rel="shortcut icon" href="images/net1.png">
+
+  <!--link rel="stylesheet" href="css/layout.css" type="text/css" media="all" charset="utf-8"/>-->
+  <link rel="stylesheet" href="css/defaults.css" type="text/css" media="all" charset="utf-8"/>
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+  <script src="d3.v3.min.js"></script>
+  <script src="net.js"></script>
+</head>
+
+<body>
+    <div class="net-menu">  
+	    <h3>GPCR Interaction Network Visualizer</h3>
+	    <p><a href="javascript:open_help();">Instructions</a>&nbsp;&nbsp;<a href="javascript:open_aboutus();">About us</a></p>
+    	<p>
+    		<div id="radio">
+    		<label for="radio">GPCR networks</label><br>
+    			<input style="margin-left:1em" type="radio" id="1" value="Positive" name="radio" checked="checked"><label for="1">HetNet</label>
+    			<input style="margin-left:1em" type="radio" id="2" value="Negative" name="radio"><label for="2">NonHetNet</label>
+     		</div>
+    	</p>
+    
+    	<p>	
+			<label for="receptors">Search protomer by UniProt name</label><br>
+  			<input id="receptors">
+  		</p>
+	</div>
+	
+	<div class="subnet-data" id="my_custom_menu" style="display:none;">
+  	    	<p></p>
+			<input type="button" value="Complete network" onclick = "paintGraph()">
+	</div>
+	
+	<div id="aboutus" title="About us" style="display:none">
+  	    	<p align="justify">This web site was developed and designed by: 
+  	    	  <ul>
+  	             <li><a href='http://www.linkedin.com/in/ismelbrito' target='_blank'>Ismel Brito Rodriguez</a>, </li>
+  	             <li> Dasiel Oscar Borroto Escuela, and </li>
+  	             <li> Kjell Fuxe. </li>
+  	          </ul>   
+  	        </p>
+  	        <p align="justify">We would like to thank Michael Di Palma for his support in bibliographic reference gathering.<p>
+  	        <p align="justify">If you encounter any difficulties as you use it or have any comments, please send us your feedback to <a href="mailto:Dasiel.Borroto-Escuela@ki.se?Subject=GCPR-Nets site" target="_top">Dasiel.Borroto-Escuela (at) ki (dot) se.</a></p>
+	</div>
+	
+	<div id="help" title="Instructions">
+  	    	<p align="justify">Welcome to the GPCR Interaction Network Visualizer!</p>
+            <p align="justify">This web site has been designed to visualize GPCR interaction networks. 
+            We distinguish between two types of interaction networks: HetNet and NonHetNet. 
+            In the former each receptor is a network node and every line between two receptor means 
+            that these two connected receptors interact between them according to consulted literature.
+            In the latter network, however, every dotted line means that the two connected receptors 
+            does not interact. In the site you can visualize one of these two networks by clicking on 
+            the buttons that appear in the top-left panel as you can see below.</p>
+            
+            <img src="images/netButtoms.png" alt="netButtoms" style="display: block; margin-left: auto; margin-right: auto">
+
+            <p align="justify">You might also be interested in seeing the interaction and non-interactions of a specific receptor 
+            (let's call it the target receptor). We provide you two ways to achieve this. 
+            
+            <ul>
+  	             <li align="justify">You might use the search input box that appears in the top-left panel. This is an autocomplete input box so you don't need to 
+            type the whole receptor name to find the target receptor. It worth mentioning that we use UniProt 
+            receptor name in search. Please visit <a href='http://www.uniprot.org/' target='_blank'>Uniprot site</a> to 
+            find out the proper receptor name.</li>
+            <br>
+            <img src="images/searchBox.png" alt="searchBox" style="display: block; margin-left: auto; margin-right: auto">
+            <br> 
+				<li align="justify">Alternatively, if you see the target receptor in the network, you can click on it.</li>
+			</ul>
+			</p>
+			<p align="justify">In both cases a new subnetwork is drawn in which the target receptor and its interactions/non-interactions are shown.
+			</p>
+			
+			<p align="justify">The site also contains three other panels. In the bottom-left panel we show the map between 
+			receptor families and network node colours. In the bottom-right corner we provide some topological properties of the network 
+			being shown.</p>
+
+			<p align="justify">The top-right panel is not always visible. It only provides information about a subnetwork for 
+			a given target receptor. For every receptor in the subnetwork we enlist the bibliographic references that claim the fact 
+			that it does/doesn't interact with the target receptor.</p>
+			
+			<img src="images/referenceList.png" alt="referenceList" style="display: block; margin-left: auto; margin-right: auto">
+			
+			<p align="justify">For instance, the image above shows the reference list in the HetNet subnetwork for receptor GIPR.</p>
+			
+	</div>
+	
+	<div class="topological-data-info" id="net_data" style="display:inline;">
+	    <h3>Network topology</h3>
+  	    <p></p> 
+	</div>
+	
+	<div class="legend" id="legend" style="display:inline;">
+	    <h3>Protomer families</h3>
+	    <p></p>
+	</div>
+	
+<script>  
+  $(function() {
+  	$("#radio").buttonset();
+  	
+  	$("#aboutus").dialog({
+        autoOpen: false,
+        resizable: false,
+        modal: false,
+        width:'450px'
+    });
+    
+    $("#help").dialog({
+        autoOpen: false,
+        resizable: false,
+        modal: false,
+        width:'800px'
+    });
+  	
+  	$("input[type=submit], input[type=button]" )
+      .button()
+      .click(function( event ) {
+        event.preventDefault();
+      });
+      
+    $("#radio").on("click change", function () {
+       paintGraph();    
+    }); 
+    
+    $("#receptors").autocomplete({
+    	select: function (event, ui)  {
+    	    event.preventDefault();
+        	$(this).val(ui.item.value);
+        	onNodeClick(nodeMap[ui.item.value]);
+    }
+    });
+
+    $(window).resize(function() { windowResize();});
+
+    buildNet("positiveJSON.json"); 
+  
+    jQuery('body').bind('click',
+              function(e){
+                 	if(jQuery('#aboutus').dialog('isOpen') && !jQuery(e.target).is('.ui-dialog, a') && !jQuery(e.target).closest('.ui-dialog').length){
+                          jQuery('#aboutus').dialog('close');
+                    }
+
+					if(jQuery('#help').dialog('isOpen') && !jQuery(e.target).is('.ui-dialog, a') && !jQuery(e.target).closest('.ui-dialog').length){
+	                      jQuery('#help').dialog('close');
+	                }
+              });
+  });
+  
+  function paintGraph() {
+  	closepop();
+  	
+  	//alert($('input[name=radio]:checked').val());
+    if ($('input[name=radio]:checked').val() == "Positive") {
+     	 buildNet("positiveJSON.json"); 
+    } else {
+    	 buildNet("negativeJSON.json"); 
+    }
+  }    
+  
+  function open_aboutus() {
+	 if(jQuery('#help').dialog('isOpen')){
+         jQuery('#help').dialog('close');
+     }
+
+     if(!jQuery('#aboutus').dialog('isOpen')){
+         $("#aboutus").dialog('open');
+	     $("#aboutus a").blur();
+     }
+  }
+  
+  function open_help() {
+	 if(jQuery('#aboutus').dialog('isOpen')){
+         jQuery('#aboutus').dialog('close');
+     }
+
+	 if(!jQuery('#help').dialog('isOpen')){
+          $("#help").dialog('open');
+		  $("#help a").blur();
+     }
+  }
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47466956-1', 'csic.es');
+  ga('send', 'pageview');
+
+</script>
+
+</body>

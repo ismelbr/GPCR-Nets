@@ -1,0 +1,86 @@
+body {
+	font-family: "Verdana","Arial","sans-serif";
+	font-size: 72%;
+    //color: #aaa;
+}
+
+table, td, th {
+	border-color: #aaa;
+    border-style: double;
+    border-width: 1px;
+    border-collapse: collapse;
+    //font-weight: normal;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+td, th {
+	width: 50%;
+}
+
+th {
+	background-color:black;
+	color: white;
+}
+
+.gray {
+    color: #aaa;
+}
+
+h3 {
+	color: #aaa;
+	font-size: 1.5em;
+    margin-bottom:0px;
+	//padding: 0px 0px 0px 0px;
+	//letter-spacing: -3px;
+	font-weight: normal;
+}	
+
+.net-menu {
+    position: fixed;
+    left: 7px;
+    top: 7px;
+    width: 320px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
+
+.topological-data-info {
+    position: fixed;
+    right: 7px;
+    bottom: 7px;
+    width: 220px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
+
+.subnet-data {
+    position: fixed;
+    right: 7px;
+    top: 7px;
+    width: 220px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
+
+.legend {
+    position: fixed;
+    left: 7px;
+    bottom: 7px;
+    width: 250px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
