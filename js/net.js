@@ -1,18 +1,7 @@
 buildNet = function(jsonFile) {
 
 	inputJSONFile = jsonFile;
-	/*
-	 * var width = 960, height = 500;
-	 */
-
-	/*width = window.innerWidth ||
-                document.documentElement.clientWidth ||
-                document.body.clientWidth;
-
-        height = window.innerHeight ||
-                 document.documentElement.clientHeight ||
-                 document.body.clientHeight;*/
-
+	
     windowResize();
 
     margen_Width = 20;
@@ -289,7 +278,7 @@ function onNodeClick(selectedNode) {
 	$('#my_custom_menu p').prepend(tableStr);
 
 	var interactWord = "Interactions";
-	if (inputJSONFile == "negativeJSON.json") {
+	if (inputJSONFile === "data/negativeJSON.json") {
 		interactWord = "Non-interactions";
 	}
 
@@ -324,7 +313,7 @@ function showTopologicalProperties() {
 	$('#net_data p').append("Num. of protomers = " + graph.nodes.length + "<br>");
 	
 	var interactWord = "interactions";
-	if (inputJSONFile == "negativeJSON.json") {
+	if (inputJSONFile === "data/negativeJSON.json") {
 		interactWord = "non-interactions";
 	}
 	

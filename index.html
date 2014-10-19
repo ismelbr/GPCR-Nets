@@ -17,8 +17,8 @@
   <link rel="stylesheet" href="css/defaults.css" type="text/css" media="all" charset="utf-8"/>
   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
   <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
-  <script src="d3.v3.min.js"></script>
-  <script src="net.js"></script>
+  <script src="js/d3.v3.min.js"></script>
+  <script src="js/net.js"></script>
 </head>
 
 <body>
@@ -147,7 +147,7 @@
 
     $(window).resize(function() { windowResize();});
 
-    buildNet("positiveJSON.json"); 
+    buildNet("data/positiveJSON.json"); 
   
     jQuery('body').bind('click',
               function(e){
@@ -166,9 +166,9 @@
   	
   	//alert($('input[name=radio]:checked').val());
     if ($('input[name=radio]:checked').val() == "Positive") {
-     	 buildNet("positiveJSON.json"); 
+     	 buildNet("data/positiveJSON.json"); 
     } else {
-    	 buildNet("negativeJSON.json"); 
+    	 buildNet("data/negativeJSON.json"); 
     }
   }    
   
