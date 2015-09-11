@@ -1,0 +1,2110 @@
+{
+  "nodes": [
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADRB2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P07550"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CXCR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25024"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CXCR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25025"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ACM3",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P20309"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "TAAR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q96RJ0"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM1",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q13255"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OPRK",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41145"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R9",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW1"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "PTH1R",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q03431"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "S1PR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/O95136"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OPRD",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41143"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "P2RY6",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q15077"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ACM1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P11229"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R41",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59536"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM4",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q14833"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CCR5",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P51681"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ACM5",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08912"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "LPAR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q92633"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R5",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW4"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADRB1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08588"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "SSR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30872"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "MTR1B",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P49286"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ACM2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08172"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "TRFR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P34981"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "SSR4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P31391"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "AA1R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30542"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "5HT2C",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P28335"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "GHSR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q92847"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "V2R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30518"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "CRFR2",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q13324"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OPRM",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35372"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CNR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P21554"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "AGTR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P50052"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "GLP1R",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P43220"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "5HT7R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P34969"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R20",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59543"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "NPY2R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P49146"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "BKRB2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30411"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA2B",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P18089"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "GASR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P32239"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R14",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYV8"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "5HT1A",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08908"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "CALCR",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30988"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "DRD2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P14416"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "S1PR3",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q99500"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R30",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59541"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "VIPR2",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41587"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "DRD5",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P21918"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R43",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59537"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "MTR1A",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P48039"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "P2RY1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P47900"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R13",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYV9"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "MC3R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41968"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM8",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/O00222"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "SCTR",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P47872"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "HRH4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9H3N8"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "5HT2B",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41595"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "FPR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P21462"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R10",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW0"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GABR2",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/O75899"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R1",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW7"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "NK1R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25103"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "SSR5",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35346"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R60",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59551"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "GALR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/O43603"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA1A",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35348"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "VIPR1",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P32241"
+   },
+   {
+    "family": "G-protein coupled receptor 2",
+    "name": "CRFR1",
+    "group": 2,
+    "uniProtId": "http://www.uniprot.org/uniprot/P34998"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "MTR1L",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q13585"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "LPAR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9HBW0"
+   },
+   {
+    "family": "G-protein coupled receptor Fz/Smo",
+    "name": "SMO",
+    "group": 5,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q99835"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM2",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q14416"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "DRD1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P21728"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA2A",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08913"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "TSHR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P16473"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "5HT4R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q13639"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "HRH1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35367"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R39",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59534"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OGR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q15743"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R8",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW2"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R31",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59538"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "LSHR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P22888"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R7",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW3"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "NPY5R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q15761"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "PAR4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q96RI0"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA1B",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35368"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CCKAR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P32238"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM5",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41594"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "NPY1R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25929"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "DRD4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P21917"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "AGTR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30556"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R40",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59535"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R45",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59539"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "GPR83",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYM4"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM3",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q14832"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R3",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW6"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "CXCR4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P61073"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "DRD3",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P35462"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "TA2R4",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9NYW5"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "P2RY4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P51582"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA2C",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P18825"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R38",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/P59533"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "MC4R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P32245"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "NPY4R",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P50391"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ADA1D",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25100"
+   },
+   {
+    "family": "G-protein coupled receptor T2R",
+    "name": "T2R42",
+    "group": 4,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q7RTR8"
+   },
+   {
+    "family": "G-protein coupled receptor 3",
+    "name": "GRM7",
+    "group": 3,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q14831"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "ACM4",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08173"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "HRH2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25021"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "GALR1",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P47211"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OXYR",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P30559"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "OPSD",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P08100"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "HRH3",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/Q9Y5N1"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "P2RY2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P41231"
+   },
+   {
+    "family": "G-protein coupled receptor 1",
+    "name": "FPR2",
+    "group": 1,
+    "uniProtId": "http://www.uniprot.org/uniprot/P25090"
+   }
+  ],
+  "links": [
+   {
+    "references": [{
+     "refId": "48",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10644689"
+    }],
+    "source": 86,
+    "value": 0,
+    "target": 28
+   },
+   {
+    "references": [{
+     "refId": "9",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16244179"
+    }],
+    "source": 86,
+    "value": 0,
+    "target": 66
+   },
+   {
+    "references": [{
+     "refId": "9",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16244179"
+    }],
+    "source": 86,
+    "value": 0,
+    "target": 46
+   },
+   {
+    "references": [
+     {
+      "refId": "4",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17897631"
+     },
+     {
+      "refId": "3",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14551289"
+     }
+    ],
+    "source": 103,
+    "value": 0,
+    "target": 83
+   },
+   {
+    "references": [{
+     "refId": "3",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14551289"
+    }],
+    "source": 103,
+    "value": 0,
+    "target": 10
+   },
+   {
+    "references": [{
+     "refId": "3",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14551289"
+    }],
+    "source": 103,
+    "value": 0,
+    "target": 30
+   },
+   {
+    "references": [
+     {
+      "refId": "203",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19890050"
+     },
+     {
+      "refId": "204",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15946947"
+     },
+     {
+      "refId": "205",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/12888558"
+     }
+    ],
+    "source": 1,
+    "value": 0,
+    "target": 2
+   },
+   {
+    "references": [
+     {
+      "refId": "7",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16224106"
+     },
+     {
+      "refId": "5",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17023202"
+     },
+     {
+      "refId": "8",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/12069814"
+     }
+    ],
+    "source": 17,
+    "value": 0,
+    "target": 44
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 19
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 59
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 112
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 10
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 6
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 100,
+    "value": 0,
+    "target": 30
+   },
+   {
+    "references": [{
+     "refId": "10",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/18401761"
+    }],
+    "source": 54,
+    "value": 0,
+    "target": 86
+   },
+   {
+    "references": [{
+     "refId": "31",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/24108355"
+    }],
+    "source": 90,
+    "value": 0,
+    "target": 57
+   },
+   {
+    "references": [{
+     "refId": "31",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/24108355"
+    }],
+    "source": 90,
+    "value": 0,
+    "target": 114
+   },
+   {
+    "references": [{
+     "refId": "212",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15518545"
+    }],
+    "source": 26,
+    "value": 0,
+    "target": 107
+   },
+   {
+    "references": [
+     {
+      "refId": "73",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20150590"
+     },
+     {
+      "refId": "212",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15518545"
+     }
+    ],
+    "source": 26,
+    "value": 0,
+    "target": 0
+   },
+   {
+    "references": [{
+     "refId": "73",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20150590"
+    }],
+    "source": 26,
+    "value": 0,
+    "target": 37
+   },
+   {
+    "references": [{
+     "refId": "213",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16857671"
+    }],
+    "source": 26,
+    "value": 0,
+    "target": 15
+   },
+   {
+    "references": [{
+     "refId": "214",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22300836"
+    }],
+    "source": 26,
+    "value": 0,
+    "target": 71
+   },
+   {
+    "references": [{
+     "refId": "37",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21593325"
+    }],
+    "source": 56,
+    "value": 0,
+    "target": 109
+   },
+   {
+    "references": [{
+     "refId": "82",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19413572"
+    }],
+    "source": 56,
+    "value": 0,
+    "target": 112
+   },
+   {
+    "references": [
+     {
+      "refId": "228",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/12189203"
+     },
+     {
+      "refId": "229",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15863499"
+     },
+     {
+      "refId": "230",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+     }
+    ],
+    "source": 5,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "source": 84,
+    "value": 0,
+    "target": 111
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 87,
+    "value": 0,
+    "target": 53
+   },
+   {
+    "references": [{
+     "refId": "49",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17855348"
+    }],
+    "source": 87,
+    "value": 0,
+    "target": 28
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 14,
+    "value": 0,
+    "target": 5
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 14,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "references": [{
+     "refId": "139",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14534299"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 86
+   },
+   {
+    "references": [{
+     "refId": "59",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10725388"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 15
+   },
+   {
+    "references": [{
+     "refId": "148",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15123695"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 59
+   },
+   {
+    "references": [{
+     "refId": "139",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14534299"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 39
+   },
+   {
+    "references": [{
+     "refId": "59",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10725388"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 49
+   },
+   {
+    "references": [{
+     "refId": "242",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19747085"
+    }],
+    "source": 0,
+    "value": 0,
+    "target": 61
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 94,
+    "value": 0,
+    "target": 5
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 94,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 71,
+    "value": 0,
+    "target": 5
+   },
+   {
+    "references": [
+     {
+      "refId": "214",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22300836"
+     },
+     {
+      "refId": "230",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+     }
+    ],
+    "source": 71,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "references": [{
+     "refId": "69",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15889138"
+    }],
+    "source": 15,
+    "value": 0,
+    "target": 74
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 53,
+    "value": 0,
+    "target": 5
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 106,
+    "value": 0,
+    "target": 5
+   },
+   {
+    "references": [{
+     "refId": "230",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20826542"
+    }],
+    "source": 106,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "references": [
+     {
+      "refId": "26",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/11533702"
+     },
+     {
+      "refId": "27",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10993080"
+     },
+     {
+      "refId": "28",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19017652"
+     }
+    ],
+    "source": 37,
+    "value": 0,
+    "target": 90
+   },
+   {
+    "references": [{
+     "refId": "51",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15089977"
+    }],
+    "source": 37,
+    "value": 0,
+    "target": 110
+   },
+   {
+    "references": [{
+     "refId": "5",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17023202"
+    }],
+    "source": 78,
+    "value": 0,
+    "target": 9
+   },
+   {
+    "references": [{
+     "refId": "74",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/23091034"
+    }],
+    "source": 33,
+    "value": 0,
+    "target": 39
+   },
+   {
+    "references": [
+     {
+      "refId": "15",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20541569"
+     },
+     {
+      "refId": "10",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/18401761"
+     }
+    ],
+    "source": 42,
+    "value": 0,
+    "target": 54
+   },
+   {
+    "references": [
+     {
+      "refId": "93",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22723743"
+     },
+     {
+      "refId": "94",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21844870"
+     }
+    ],
+    "source": 72,
+    "value": 0,
+    "target": 89
+   },
+   {
+    "references": [{
+     "refId": "37",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21593325"
+    }],
+    "source": 72,
+    "value": 0,
+    "target": 64
+   },
+   {
+    "references": [{
+     "refId": "82",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19413572"
+    }],
+    "source": 72,
+    "value": 0,
+    "target": 55
+   },
+   {
+    "references": [{
+     "refId": "99",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21670104"
+    }],
+    "source": 72,
+    "value": 0,
+    "target": 4
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 92,
+    "value": 0,
+    "target": 45
+   },
+   {
+    "references": [{
+     "refId": "91",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/18644790"
+    }],
+    "source": 97,
+    "value": 0,
+    "target": 96
+   },
+   {
+    "references": [
+     {
+      "refId": "129",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19344374"
+     },
+     {
+      "refId": "130",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/18973777"
+     }
+    ],
+    "source": 43,
+    "value": 0,
+    "target": 87
+   },
+   {
+    "references": [{
+     "refId": "131",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/18547596"
+    }],
+    "source": 43,
+    "value": 0,
+    "target": 55
+   },
+   {
+    "references": [{
+     "refId": "3",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14551289"
+    }],
+    "source": 36,
+    "value": 0,
+    "target": 103
+   },
+   {
+    "source": 47,
+    "value": 0,
+    "target": 31
+   },
+   {
+    "references": [{
+     "refId": "37",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21593325"
+    }],
+    "source": 47,
+    "value": 0,
+    "target": 64
+   },
+   {
+    "references": [{
+     "refId": "137",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20172855"
+    }],
+    "source": 39,
+    "value": 0,
+    "target": 8
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 41,
+    "value": 0,
+    "target": 100
+   },
+   {
+    "references": [{
+     "refId": "250",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16645125"
+    }],
+    "source": 76,
+    "value": 0,
+    "target": 55
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 95,
+    "value": 0,
+    "target": 98
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 58
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 51
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 40
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 35
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 45
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 80
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 101
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 77
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 91
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 13
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 105
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 48
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 92
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 63
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 18
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 82
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 79
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 98,
+    "value": 0,
+    "target": 7
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 60,
+    "value": 0,
+    "target": 92
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 60,
+    "value": 0,
+    "target": 98
+   },
+   {
+    "references": [{
+     "refId": "149",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17481575"
+    }],
+    "source": 113,
+    "value": 0,
+    "target": 99
+   },
+   {
+    "references": [{
+     "refId": "149",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/17481575"
+    }],
+    "source": 113,
+    "value": 0,
+    "target": 11
+   },
+   {
+    "references": [{
+     "refId": "82",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19413572"
+    }],
+    "source": 31,
+    "value": 0,
+    "target": 72
+   },
+   {
+    "references": [{
+     "refId": "138",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22532560"
+    }],
+    "source": 31,
+    "value": 0,
+    "target": 89
+   },
+   {
+    "references": [{
+     "refId": "145",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20054210"
+    }],
+    "source": 31,
+    "value": 0,
+    "target": 52
+   },
+   {
+    "references": [
+     {
+      "refId": "157",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/23674133"
+     },
+     {
+      "refId": "145",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20054210"
+     }
+    ],
+    "source": 31,
+    "value": 0,
+    "target": 102
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 82,
+    "value": 0,
+    "target": 92
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 82,
+    "value": 0,
+    "target": 79
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 82,
+    "value": 0,
+    "target": 7
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 79,
+    "value": 0,
+    "target": 7
+   },
+   {
+    "references": [{
+     "refId": "219",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19616090"
+    }],
+    "source": 52,
+    "value": 0,
+    "target": 81
+   },
+   {
+    "references": [{
+     "refId": "57",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/24143975"
+    }],
+    "source": 75,
+    "value": 0,
+    "target": 34
+   },
+   {
+    "references": [{
+     "refId": "57",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/24143975"
+    }],
+    "source": 75,
+    "value": 0,
+    "target": 59
+   },
+   {
+    "references": [{
+     "refId": "47",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20212011"
+    }],
+    "source": 7,
+    "value": 0,
+    "target": 51
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 22,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "170",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15778451"
+    }],
+    "source": 22,
+    "value": 0,
+    "target": 10
+   },
+   {
+    "references": [{
+     "refId": "170",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15778451"
+    }],
+    "source": 22,
+    "value": 0,
+    "target": 6
+   },
+   {
+    "references": [{
+     "refId": "170",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15778451"
+    }],
+    "source": 22,
+    "value": 0,
+    "target": 30
+   },
+   {
+    "references": [{
+     "refId": "233",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16368694"
+    }],
+    "source": 22,
+    "value": 0,
+    "target": 70
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 12,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "233",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16368694"
+    }],
+    "source": 12,
+    "value": 0,
+    "target": 70
+   },
+   {
+    "references": [{
+     "refId": "172",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/11971762"
+    }],
+    "source": 6,
+    "value": 0,
+    "target": 23
+   },
+   {
+    "references": [
+     {
+      "refId": "6",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+     },
+     {
+      "refId": "258",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14736874"
+     }
+    ],
+    "source": 65,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 65,
+    "value": 0,
+    "target": 100
+   },
+   {
+    "references": [{
+     "refId": "171",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15266013"
+    }],
+    "source": 65,
+    "value": 0,
+    "target": 10
+   },
+   {
+    "references": [{
+     "refId": "3",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14551289"
+    }],
+    "source": 88,
+    "value": 0,
+    "target": 103
+   },
+   {
+    "references": [
+     {
+      "refId": "6",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+     },
+     {
+      "refId": "258",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14736874"
+     },
+     {
+      "refId": "259",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16195468"
+     }
+    ],
+    "source": 85,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "146",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16757535"
+    }],
+    "source": 85,
+    "value": 0,
+    "target": 100
+   },
+   {
+    "references": [{
+     "refId": "93",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22723743"
+    }],
+    "source": 85,
+    "value": 0,
+    "target": 19
+   },
+   {
+    "references": [{
+     "refId": "140",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19113864"
+    }],
+    "source": 30,
+    "value": 0,
+    "target": 39
+   },
+   {
+    "references": [
+     {
+      "refId": "122",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15677457"
+     },
+     {
+      "refId": "260",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/15506959"
+     }
+    ],
+    "source": 107,
+    "value": 0,
+    "target": 43
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "198",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/23744028"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 27
+   },
+   {
+    "references": [{
+     "refId": "198",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/23744028"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 93
+   },
+   {
+    "references": [{
+     "refId": "198",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/23744028"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 52
+   },
+   {
+    "references": [{
+     "refId": "233",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/16368694"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 70
+   },
+   {
+    "references": [{
+     "refId": "48",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10644689"
+    }],
+    "source": 3,
+    "value": 0,
+    "target": 28
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 16,
+    "value": 0,
+    "target": 104
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 73
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 38
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 100
+   },
+   {
+    "references": [
+     {
+      "refId": "22",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/20102360"
+     },
+     {
+      "refId": "6",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+     }
+    ],
+    "source": 104,
+    "value": 0,
+    "target": 90
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 32
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 72
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 43
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 76
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 108
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 112
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 17
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 69
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 49
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 21
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 68
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 10
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 30
+   },
+   {
+    "references": [{
+     "refId": "6",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/14645668"
+    }],
+    "source": 104,
+    "value": 0,
+    "target": 50
+   },
+   {
+    "references": [{
+     "refId": "12",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19426801"
+    }],
+    "source": 24,
+    "value": 0,
+    "target": 20
+   },
+   {
+    "references": [
+     {
+      "refId": "12",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/19426801"
+     },
+     {
+      "refId": "13",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10753124"
+     }
+    ],
+    "source": 24,
+    "value": 0,
+    "target": 62
+   },
+   {
+    "references": [{
+     "refId": "264",
+     "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/22689579"
+    }],
+    "source": 67,
+    "value": 0,
+    "target": 29
+   },
+   {
+    "references": [
+     {
+      "refId": "113",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/10890919"
+     },
+     {
+      "refId": "114",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/11390975"
+     },
+     {
+      "refId": "94",
+      "refLink": "http://www.ncbi.nlm.nih.gov/pubmed/21844870"
+     }
+    ],
+    "source": 25,
+    "value": 0,
+    "target": 43
+   }
+  ]
+ }

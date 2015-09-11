@@ -1,0 +1,92 @@
+body {
+	/*font-family: "Helvetica";*/
+	/*font-size: 72%;*/
+    /*color: #aaa;*/
+}
+
+table, td, th {
+	/*border: 1px double #aaa;*/
+    border-collapse: collapse;
+    /*font-weight: normal;*/
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+tr {
+    border-bottom: 1pt solid #aaa;
+}
+
+td, th {
+	width: 50%;
+}
+
+th {
+	background-color: #2aabd2;
+	color: white;
+    padding: 10px;
+}
+
+.gray {
+    color: #aaa;
+}
+
+h3 {
+	color: black;
+	font-size: 1.5em;
+    margin-bottom:5px;
+	/*padding: 0px 0px 0px 0px;
+	letter-spacing: -3px;*/
+	font-weight: normal;
+}	
+
+.net-menu {
+    position: fixed;
+    left: 7px;
+    top: 7px;
+    width: 320px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
+
+.topological-data-info {
+    position: fixed;
+    right: 7px;
+    bottom: 7px;
+    width: 250px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
+
+.subnet-data {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    width: 250px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+    overflow-y: auto;
+    max-height: 80%;
+
+    opacity: 0.9;
+}
+
+.legend {
+    position: fixed;
+    left: 7px;
+    bottom: 7px;
+    width: 250px;
+    display: block;
+    /*border-color: #aaa;
+    border-style: double;
+    border-width:1px;
+    padding: 10px;*/
+}
